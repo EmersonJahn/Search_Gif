@@ -20,8 +20,16 @@
 <br>
 
 ### Preview
-<img src="./images/gif1.png" alt="Preview" height="400"/>
-<img src="./images/gif2.png" alt="Preview" height="400"/>
+<table>
+    <tr>
+        <td>
+            <img src="./images/gif1.png" alt="Preview" height="400"/>
+        </td>
+        <td>
+            <img src="./images/gif2.png" alt="Preview" height="400"/>
+        </td>
+    </tr>
+</table>
 
 <br>
 <br>
